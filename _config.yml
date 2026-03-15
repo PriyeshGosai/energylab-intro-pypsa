@@ -26,7 +26,7 @@ latex:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/PriyeshGosai/pypsa-meets-earth-lab-2025
+  url: https://github.com/PriyeshGosai/energylab-intro-pypsa
   branch: main
 
 # Add GitHub buttons to your book

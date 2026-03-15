@@ -105,7 +105,7 @@ The development of this model incorporates data and information from the followi
 
 - **PyPSA Documentation:** https://pypsa.org
 - **PyPSA-Earth:** https://github.com/pypsa-meets-earth
-- **Course Repository:** https://github.com/PriyeshGosai/pypsa-meets-earth-lab-2025
+- **Course Repository:** https://github.com/PriyeshGosai/energylab-intro-pypsa
 
 ## License
 
