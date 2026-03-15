@@ -5,8 +5,8 @@ format: jb-book
 root: intro
 chapters:
 - file: 1_exercise_1
-  title: "Part 1: Getting Started with PyPSA"
+  title: "Getting Started with PyPSA"
 - file: 2_exercise_2
-  title: "Part 2: Building a Network Using Excel"
+  title: "Capacity Expansion Planning"
 - file: 3_exercise_3
-  title: "Part 3: Compare Scenarios"
+  title: "Hydropower Modelling and Dispatch"

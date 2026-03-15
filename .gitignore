@@ -26,7 +26,7 @@ ENV/
 *.tif
 *.xlsx
 data/
-
+logs/
 
 # Allow the scenario data
 !network_ZA.xlsx
