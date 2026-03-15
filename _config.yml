@@ -5,10 +5,10 @@
 
 #######################################################################################
 # Book settings
-title: PyPSA Meets Earth Lab 2025
+title: EnergyLab Introduction to PyPSA
 author: Priyesh Gosai
-copyright: "2025"
-logo: img/pypsa-meets-earth-lab-logo.png
+copyright: "2026"
+
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

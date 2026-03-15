@@ -78,8 +78,8 @@ If you'd like to build the Jupyter Book locally:
 ## Course Contents
 
 - **Exercise 1:** Getting started with PyPSA
-- **Exercise 2:** Developing a model using Excel
-- **Exercise 3:** Compare scenarios
+- **Exercise 2:** Capacity Expansion Planning 
+- **Exercise 3:** Hydro, Scheduling and Dispatch
 
 ## Case Study Disclaimer
 
