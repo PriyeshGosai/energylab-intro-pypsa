@@ -1,10 +1,10 @@
-# PyPSA Meets Earth Lab 2025
+# EnergyLab Introduction to PyPSA
 
-Welcome to the Introduction to Python for Power System Analysis course materials! This repository contains interactive Jupyter notebooks and course materials for learning energy system modelling with PyPSA.
+Welcome to the introductory course on PyPSA for EnergyLab! This course provides hands-on training and practical examples for energy system modelling using PyPSA (Python for Power System Analysis).
 
 Access the accompanying presentation at this link:
 
-[![Download PDF from GitHub](https://img.shields.io/badge/Download%20PDF-GitHub-black?logo=github)](https://raw.githubusercontent.com/PriyeshGosai/pypsa-meets-earth-lab-2025/main/PyPSA-Introduction-V1.pdf)
+[![Download PDF from GitHub](https://img.shields.io/badge/Download%20PDF-GitHub-black?logo=github)](https://priyeshgosai.github.io/energylab-intro-pypsa/intro.html)
 
 
 
