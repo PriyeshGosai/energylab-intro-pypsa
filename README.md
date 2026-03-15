@@ -1,6 +1,6 @@
 # PyPSA Meets Earth Lab 2025
 
-Welcome to the PyPSA Meets Earth Lab 2025 course materials! This repository contains interactive Jupyter notebooks and course materials for learning energy system modelling with PyPSA.
+Welcome to the Introduction to Python for Power System Analysis course materials! This repository contains interactive Jupyter notebooks and course materials for learning energy system modelling with PyPSA.
 
 Access the accompanying presentation at this link:
 
@@ -32,7 +32,7 @@ This course provides hands-on training and practical examples for energy system 
 
 ### Option 1: View Online
 
-Visit the course website at: https://priyeshgosai.github.io/pypsa-meets-earth-lab-2025/
+Visit the course website at: https://priyeshgosai.github.io/energylab-intro-pypsa/
 
 ### Option 2: Google Colab
 
@@ -77,15 +77,15 @@ If you'd like to build the Jupyter Book locally:
 
 ## Course Contents
 
-- **Part 1:** Getting started with PyPSA
-- **Part 2:** Developing a model using Excel
-- **Part 3:** Compare scenarios
+- **Exercise 1:** Getting started with PyPSA
+- **Exercise 2:** Developing a model using Excel
+- **Exercise 3:** Compare scenarios
 
 ## Case Study Disclaimer
 
 **Disclaimer**
 
-This analysis employs a South African energy system case study developed exclusively for educational purposes. The model has been intentionally simplified and should not be construed as an accurate or comprehensive representation of the contemporary South African energy system. Consequently, this model is not suitable for application in substantive studies, policy analysis, or operational assessments pertaining to the South African power system.
+The models developed in this repository is intended exclusively for educational purposes. The models have been intentionally simplified and should not be construed as an accurate or comprehensive representation of the contemporary energy system being refrenced. Consequently, this model is not suitable for application in substantive studies, policy analysis, or operational assessments.
 
 **Data Sources**
 
