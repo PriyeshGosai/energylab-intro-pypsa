@@ -4,9 +4,9 @@
 format: jb-book
 root: intro
 chapters:
-- file: 1_getting_started_with_pypsa
+- file: 1_exercise_1
   title: "Part 1: Getting Started with PyPSA"
-- file: 2_building_a_network_using_excel
+- file: 2_exercise_2
   title: "Part 2: Building a Network Using Excel"
-- file: 3_compare_scenarios
+- file: 3_exercise_3
   title: "Part 3: Compare Scenarios"

@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/PriyeshGosai/pypsa-meets-earth-lab-2025/main/img/top-banner.png" alt="Top Banner" width="100%">
-
 # PyPSA Meets Earth Lab 2025
 
 Welcome to the PyPSA Meets Earth Lab 2025 course materials! This repository contains interactive Jupyter notebooks and course materials for learning energy system modelling with PyPSA.
@@ -18,15 +16,14 @@ This course provides hands-on training and practical examples for energy system 
   <div>
     <h3 style="margin-top: 0;">Instructor</h3>
     <p style="margin: 5px 0; font-size: 20px;"><strong>Priyesh Gosai</strong></p>
-    <p style="margin: 2px 0; font-size: 14px;">PAS-SA • Director: Energy Solutions</p>
-    <hr style="margin: 12px 0; border: none; border-top: 1px solid #000000ff;">
-    <p style="margin: 6px 0; font-size: 13px;"><a href="mailto:pgosai@pas-sa.co.za">pgosai@pas-sa.co.za</a></p>
-    <p style="margin: 6px 0; font-size: 13px;"><a href="https://www.linkedin.com/in/gosaip/">LinkedIn</a> | <a href="https://github.com/PriyeshGosai">GitHub</a> | <a href="https://www.pas-sa.co.za">Website</a></p>
+    <hr style="margin: 12px 0; border: none; border-top: 1px solid #ccc;">
+    <p style="margin: 6px 0; font-size: 13px;"><a href="mailto:priyesh@innovateimpact.com">priyesh@innovateimpact.com</a></p>
+    <p style="margin: 6px 0; font-size: 13px;"><a href="https://www.linkedin.com/in/gosaip/">LinkedIn</a> | <a href="https://github.com/PriyeshGosai">GitHub</a></p>
   </div>
-  <div>
-    <a href="https://pas-sa.co.za/">
-      <img src="https://raw.githubusercontent.com/PriyeshGosai/pypsa-meets-earth-lab-2025/main/img/pas-sa-logo.png" width="160" alt="PAS-SA">
-    </a>
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <img src="img/ccg_logo.png" height="60" alt="CCG">
+    <img src="img/energy-lab-logo.png" height="60" alt="Energy Lab">
+    <img src="img/I4I%20Logo%202%20narrow%20(PNG).png" height="60" alt="I4I">
   </div>
 </div>
 
@@ -46,8 +43,8 @@ You can run the notebooks directly in your browser using Google Colab (no instal
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/PriyeshGosai/pypsa-meets-earth-lab-2025.git
-   cd pypsa-meets-earth-lab-2025
+   git clone https://github.com/PriyeshGosai/energylab-intro-pypsa.git
+   cd energylab-intro-pypsa
    ```
 
 2. **Install dependencies:**
@@ -102,9 +99,6 @@ The development of this model incorporates data and information from the followi
 
 * Merven, B. (2024) 'ESRG Hourly Demand Model v2025 by Province', September. doi: 10.25375/uct.26942134.v5
 
-* Eskom Holdings SOC Ltd (2025) *Eskom*. Available at: https://www.eskom.co.za (Accessed: 24 November 2025).
-
-* Meridian Economics (n.d.) *PyPSA-RSA: An Open Optimisation Model of the South African Power System*. Available at: https://github.com/MeridianEconomics/pypsa-rsa
 
 
 ## Resources
