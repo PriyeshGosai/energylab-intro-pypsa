@@ -27,6 +27,7 @@ ENV/
 *.xlsx
 data/
 logs/
+*.gpkg
 
 # Allow the scenario data
 !network_ZA.xlsx
